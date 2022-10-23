@@ -1,0 +1,1 @@
+Girilen metini ya da fotoğrafı binary koda çevirip 4lü ve 8li anahtar kullanıp ikili akış karıştırması yapan daha sonrasında xor işlemi yapıp metni ya da fotoğrafı şifreleyen bir kod. Daha sonrasında Bu metin ya da fotoğrafı yapılan işlemleri tersten yaparak deşifre ediyoruz.
